@@ -1,4 +1,5 @@
-# Hello There 👋,<br>I'm Ian, a Fullstack Web Developer 💻 from Buenos Aires, Argentina
+# Hello There 👋
+I'm Ian, a Fullstack Web Developer 💻 from Buenos Aires, Argentina
 
 
 ## 🌐 Socials:
