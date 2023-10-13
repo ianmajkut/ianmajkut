@@ -15,7 +15,5 @@ I'm Ian, a Fullstack Web Developer 💻 from Buenos Aires, Argentina
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
----
-[![](https://visitcount.itsvg.in/api?id=ianmajkut&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
